@@ -10,7 +10,7 @@ export OPENAI_MODEL=gpt-3.5-turbo
 # Optional: Model temperature between 0 and 2 (default: 1.0)
 export OPENAI_TEMPERATURE=1
 # Optional: You can adjust the timeout seconds for OpenAI calls (default: 30)
-export OPENAI_TIMEOUT_SECONDS=60opt
+export OPENAI_TIMEOUT_SECONDS=60
 # Optional: You can include priming instructions for ChatGPT to fine tune the bot purpose
 # export OPENAI_SYSTEM_TEXT="You proofread text. When you receive a message, you will check
 # for mistakes and make suggestion to improve the language of the given text"
